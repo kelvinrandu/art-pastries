@@ -8,18 +8,18 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>meko | food distribution company</title>
+        <title>artpastries | food  company</title>
         <meta name="description" content="food distribution | restaurant registration" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          MEKO
+          ART_PASTRIES
         </h1>
 
         <p className={styles.description}>
-          Heaven sent food
+          by the_chocolate_chef
         </p> 
         
         <span className="glf-button" data-glf-cuid="513e0766-7282-4f10-ae31-b56c421db633" data-glf-ruid="81cc6882-d8ee-454e-9fed-988808cd346c" > ORDER </span>
